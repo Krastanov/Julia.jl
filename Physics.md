@@ -76,6 +76,8 @@
 ## Quantum Physics
 Quantum Physics, Lindblad dynamics, Quantum tensor network, information and computation, etc...
 + [MERA.jl](https://github.com/mhauru/MERA.jl) :: provides Julia implementations of some basic Multiscale Entaglement Renormalization Ansatz algorithms. 
++ [Quantikz.jl](https://github.com/Krastanov/Quantikz) :: Drawing quantum circuits in Julia.
++ [QuantumClifford.jl](https://github.com/Krastanov/QuantumClifford.jl) :: Efficient simulation of noisy quantum Clifford circuits.
 + [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) :: A foundational library for quantum mechanics in Julia, that provides a unifying type structure and set of basic functions for computational quantum mechanics.
 + [QuDirac.jl](https://github.com/JuliaQuantum/QuDirac.jl) :: A library for performing quantum mechanics using Dirac notation.
 + [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl) :: A library for solving dynamical equations in quantum mechanics.
